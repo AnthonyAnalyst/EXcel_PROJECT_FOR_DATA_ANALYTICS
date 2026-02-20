@@ -1,7 +1,7 @@
-# 📊 Market & Seasonal Sales Dashboard
+# Market & Seasonal Sales Dashboard
 
 
-## 🔹 Overview
+## Overview
 
 This project provides an **Excel-based dashboard** to analyze **seasonal and regional sales trends**, offering actionable insights to optimize marketing, inventory, and operations.  
 
@@ -9,7 +9,7 @@ It highlights **peak months, top-performing regions, revenue growth**, and custo
 
 ---
 
-## 🔹 Business Problem
+## Business Problem
 
 Without data insights, AReL struggled to:
 
@@ -30,7 +30,7 @@ This dashboard addresses these gaps with **data-driven visibility**.
 
 ---
 
-## 🔹 Dataset
+## Dataset
 
 - **Source:** Kaggle Global Sales Dataset  
 - **Format:** Excel Workbook with Pivot Tables & Charts  
@@ -39,7 +39,7 @@ This dashboard addresses these gaps with **data-driven visibility**.
 
 ---
 
-## 🔹 Key Insights
+##  Key Insights
 
 - **Peak Month:** December ($9M+ revenue)  
 - **Top Region:** United States ($27M+ revenue)  
@@ -51,7 +51,7 @@ This dashboard addresses these gaps with **data-driven visibility**.
 
 ---
 
-## 🔹 Recommendations
+## Recommendations
 
 - Target **seasonal marketing campaigns**  
 - Increase **inventory** in top-performing regions ahead of peak months  
@@ -61,24 +61,10 @@ This dashboard addresses these gaps with **data-driven visibility**.
 
 ---
 
-## 🔹 Future Improvements
+## Future Improvements
 
 - Real-time sales tracking  
 - Product category & demographic analysis  
 - Automated dashboard updates  
 - Staff training on business analytics  
 
----
-
-## 🔹 Dashboard Visuals
-
-| **Seasonal Sales Trend** | **Regional Performance** |
-|--------------------------|-------------------------|
-| ![seasonal_sales](./images/seasonal_sales.png) | ![regional_sales](./images/regional_sales.png) |
-
-| **Age Group Spending** | **Monthly Revenue Growth** |
-|------------------------|----------------------------|
-| ![age_group](./images/age_group.png) | ![monthly_growth](./images/monthly_growth.png) |
- 
-
----
